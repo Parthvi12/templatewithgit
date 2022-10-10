@@ -1,6 +1,54 @@
 {
   "pages": [
     {
+      "id": "Dashboard3",
+      "isDefault": false
+    },
+    {
+      "id": "Assets",
+      "isDefault": false
+    },
+    {
+      "id": "Employees",
+      "isDefault": false
+    },
+    {
+      "id": "2 Application Upload2",
+      "isDefault": false
+    },
+    {
+      "id": "3 Feeedback Form2",
+      "isDefault": false
+    },
+    {
+      "id": "1 Track Applications2",
+      "isDefault": false
+    },
+    {
+      "id": "2 Application Upload",
+      "isDefault": false
+    },
+    {
+      "id": "3 Feeedback Form",
+      "isDefault": false
+    },
+    {
+      "id": "1 Track Applications",
+      "isDefault": false
+    },
+    {
+      "id": "Dashboard",
+      "isDefault": false
+    },
+    {
+      "id": "Search",
+      "isDefault": false
+    },
+    {
+      "id": "Selected",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     }
@@ -8,10 +56,16 @@
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
-  "color": "#F4FFDE",
-  "icon": "uk-pounds",
+  "color": "#FFDEDE",
+  "icon": "alien",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
   "evaluationVersion": 2,
-  "applicationVersion": 2,
+  "applicationVersion": 1,
   "isManualUpdate": false,
   "deleted": false
 }
